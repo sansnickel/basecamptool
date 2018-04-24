@@ -98,7 +98,7 @@ if (!isset($_SESSION['token'])) {
         usort($pastevents, "cmp2");
 
         echo "<div class=\"row\">";
-        echo "<div class=\"col-sm-3\"></div>";
+        echo "<div class=\"col-sm-3\"><a href=\"engagement.php\">Basecamp 3 Engagement Statistics</a></div>";
         echo "<div class=\"col-sm-6\">";
 
         echo "<h2>Upcoming Events</h2><br>";
