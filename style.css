@@ -1,0 +1,53 @@
+html {
+	font-family: Courier New;
+	font-size:14;
+	margin: 3%;
+}
+
+body{
+	background-color: #F1F1F1;
+}
+
+a {
+	text-decoration:none;
+	color: black;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+#left{
+	width:40%;
+	float:left;
+}
+
+#right{
+	width:50%;
+	float:right;
+}
+
+.right{
+	float:right;
+}
+
+.center{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+.list-group-item{
+	background-color: white;
+
+}
+
+.col-sm-6{
+
+	text-align: center;
+	font-family: Calibri;
+	
+}
+

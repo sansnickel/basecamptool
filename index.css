@@ -1,0 +1,37 @@
+#center-div{
+	width: 350px;
+	margin: 100px auto auto;
+}
+#logo{
+	display: block;
+	margin: 0 auto;
+}
+#white-box{
+	display: block;
+	margin: 15px auto;
+	background-color: white;
+	padding: 35px 15px 15px;
+	box-shadow: 0px 1px 3px rgba(0,0,0, .13);
+}
+#button-div{
+	margin-top: 20px;
+	text-align: right;
+}
+
+a:nth-child(1){
+	text-decoration: none;
+}
+a:nth-child(2){
+	display: inline;
+}
+
+body{
+	background-color: #F1F1F1;
+}
+button{
+	background-color: #6A3492 !important;
+	border-color: #6A3492 !important;
+}
+button:hover{
+	background-color: #511f80 !important;
+}
